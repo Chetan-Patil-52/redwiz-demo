@@ -1,13 +1,13 @@
 # redwiz-demo
-Clash of clans Bases
-
-@ Here you will get top Base Layouts 
-_Th 16_ - War layouts, Farming layouts, Builder Base
-_Th 15_ - War layouts, Farming layouts, Builder Base
-_Th 14_ - War layouts, Farming layouts, Builder Base
-_Th 13_ - War layouts, Farming layouts, Builder Base
-_Th 12_ - War layouts, Farming layouts, Builder Base
-_Th 11_ - War layouts, Farming layouts, Builder Base
-
-Note : Currently only availabel TH > 11;
+<b><i>Clash of clans Bases</i></b>
+<br>
+@ Here you will get top Base Layouts <br>
+_Th 16_ - War layouts, Farming layouts, Builder Base<br>
+_Th 15_ - War layouts, Farming layouts, Builder Base<br>
+_Th 14_ - War layouts, Farming layouts, Builder Base<br>
+_Th 13_ - War layouts, Farming layouts, Builder Base<br>
+_Th 12_ - War layouts, Farming layouts, Builder Base<br>
+_Th 11_ - War layouts, Farming layouts, Builder Base<br>
+<br>
+Note : Currently only availabel TH > 11;<br>
 Creator-Chetan Patil
